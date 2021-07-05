@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<toppings>
+
+<!-- Toppings for Takoyaki 3pcs -->
+
+ <topping>
+		<name>No Add Ons</name>
+		<price>0</price>
+		<pieces>3pcs</pieces>
+		<type>takoyaki</type>
+</topping>
+
+	<topping>
+		<name>Takoyaki Sauce</name>
+		<price>4</price>
+		<pieces>3pcs</pieces>
+		<type>takoyaki</type>
+	</topping>	
+	<topping>
+		<name>Bonito Flakes</name>
+		<price>4</price>
+		<pieces>3pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+	<topping>
+		<name>Japanese Mayo</name>
+		<price>8</price>
+		<pieces>3pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+	<topping>
+		<name>Cheese</name>
+		<price>8</price>
+		<pieces>3pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+
+<!-- Toppings for Takoyaki 6pcs -->
+ <topping>
+		<name>No Add Ons</name>
+		<price>0</price>
+		<pieces>6pcs</pieces>
+		<type>takoyaki</type>
+</topping>
+
+	<topping>
+		<name>Takoyaki Sauce</name>
+		<price>8</price>
+		<pieces>6pcs</pieces>
+		<type>takoyaki</type>
+	</topping>	
+	<topping>
+		<name>Bonito Flakes</name>
+		<price>8</price>
+		<pieces>6pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+	<topping>
+		<name>Japanese Mayo</name>
+		<price>15</price>
+		<pieces>6pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+	<topping>
+		<name>Cheese</name>
+		<price>15</price>
+		<pieces>6pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+
+<!-- Toppings for Takoyaki 12pcs -->
+
+ <topping>
+		<name>No Add Ons</name>
+		<price>0</price>
+		<pieces>12pcs</pieces>
+		<type>takoyaki</type>
+</topping>
+
+<topping>
+		<name>Takoyaki Sauce</name>
+		<price>15</price>
+		<pieces>12pcs</pieces>
+		<type>takoyaki</type>
+	</topping>	
+	<topping>
+		<name>Bonito Flakes</name>
+		<price>15</price>
+		<pieces>12pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+	<topping>
+		<name>Japanese Mayo</name>
+		<price>30</price>
+		<pieces>12pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+	<topping>
+		<name>Cheese</name>
+		<price>30</price>
+		<pieces>12pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+
+<!-- Toppings for Takoyaki 20pcs -->
+
+ <topping>
+		<name>No Add Ons</name>
+		<price>0</price>
+		<pieces>20pcs</pieces>
+		<type>takoyaki</type>
+</topping>
+
+
+<topping>
+		<name>Takoyaki Sauce</name>
+		<price>25</price>
+		<pieces>20pcs</pieces>
+		<type>takoyaki</type>
+	</topping>	
+	<topping>
+		<name>Bonito Flakes</name>
+		<price>25</price>
+		<pieces>20pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+	<topping>
+		<name>Japanese Mayo</name>
+		<price>50</price>
+		<pieces>20pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+	<topping>
+		<name>Cheese</name>
+		<price>50</price>
+		<pieces>20pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+
+
+<!-- Toppings for Takoyaki 35pcs -->
+ <topping>
+		<name>No Add Ons</name>
+		<price>0</price>
+		<pieces>35pcs</pieces>
+		<type>takoyaki</type>
+</topping>
+
+
+<topping>
+		<name>Takoyaki Sauce</name>
+		<price>50</price>
+		<pieces>35pcs</pieces>
+		<type>takoyaki</type>
+	</topping>	
+	<topping>
+		<name>Bonito Flakes</name>
+		<price>50</price>
+		<pieces>35pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+	<topping>
+		<name>Japanese Mayo</name>
+		<price>80</price>
+		<pieces>35pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+	<topping>
+		<name>Cheese</name>
+		<price>80</price>
+		<pieces>35pcs</pieces>
+		<type>takoyaki</type>
+	</topping>
+
+<!-- Toppings for Milk Tea -->
+
+      <topping>
+		<name>No Add Ons</name>
+		<price>0</price>
+		<pieces></pieces>
+		<type>milktea</type>
+	</topping>
+      
+     <topping>
+		<name>Pearls</name>
+		<price>10</price>
+		<pieces></pieces>
+		<type>milktea</type>
+	</topping>	
+	<topping>
+		<name>Crystals</name>
+		<price>10</price>
+		<pieces></pieces>
+		<type>milktea</type>
+	</topping>
+	<topping>
+		<name>Coffee Jelly</name>
+		<price>10</price>
+		<pieces></pieces>
+		<type>milktea</type>
+	</topping>
+	<topping>
+		<name>Cream Cheese</name>
+		<price>15</price>
+		<pieces></pieces>
+		<type>milktea</type>
+	</topping>
+
+
+<!-- SJDM Toppings -->
+ <topping>
+		<name>No Add Ons</name>
+		<price>0</price>
+		<pieces></pieces>
+		<type>sjdmmilktea</type>
+	</topping>
+      
+     <topping>
+		<name>Pearls</name>
+	
+		<price>5</price>
+		<pieces></pieces>
+		<type>sjdmmilktea</type>
+	</topping>	
+	<topping>
+		<name>Crystals</name>
+		<price>5</price>
+		<pieces></pieces>
+		<type>sjdmmilktea</type>
+	</topping>
+	<topping>
+		<name>Coffee Jelly</name>
+		<price>5</price>
+		<pieces></pieces>
+		<type>sjdmmilktea</type>
+	</topping>
+	<topping>
+		<name>Cream Cheese</name>
+		<price>10</price>
+		<pieces></pieces>
+		<type>sjdmmilktea</type>
+	</topping>
+
+
+</toppings>

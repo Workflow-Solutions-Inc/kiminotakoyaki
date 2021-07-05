@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<mycart>
+  <mycarts>
+    <qty>2</qty>
+    <customername>355574</customername>
+    <prodCode>b3</prodCode>
+    <prodFlavor>Spam</prodFlavor>
+    <prodToppings>Bonito Flakes-4</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>355574</customername>
+    <prodCode>t4</prodCode>
+    <prodFlavor>Spam and Cookies N' Cream</prodFlavor>
+    <prodToppings>Takoyaki Sauce and Pearls-14</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>3</qty>
+    <customername>134011</customername>
+    <prodCode>b3</prodCode>
+    <prodFlavor>Chicken</prodFlavor>
+    <prodToppings>Bonito Flakes-4</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>134011</customername>
+    <prodCode>m1</prodCode>
+    <prodFlavor>small-0</prodFlavor>
+    <prodToppings>Crystals-10</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>134011</customername>
+    <prodCode>t4</prodCode>
+    <prodFlavor>Octobits and Chocolate</prodFlavor>
+    <prodToppings>Bonito Flakes and Pearls-14</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>2</qty>
+    <customername>841583</customername>
+    <prodCode>b3</prodCode>
+    <prodFlavor>Chicken</prodFlavor>
+    <prodToppings>Bonito Flakes-4</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>841583</customername>
+    <prodCode>b3</prodCode>
+    <prodFlavor>Spam</prodFlavor>
+    <prodToppings>No Add Ons-0</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>5</qty>
+    <customername>581955</customername>
+    <prodCode>b3</prodCode>
+    <prodFlavor>Octobits</prodFlavor>
+    <prodToppings>Takoyaki Sauce-4</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>581955</customername>
+    <prodCode>c1</prodCode>
+    <prodFlavor>medium-20</prodFlavor>
+    <prodToppings>No Add Ons-0</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>581955</customername>
+    <prodCode>b3</prodCode>
+    <prodFlavor>Octobits</prodFlavor>
+    <prodToppings>Bonito Flakes-4</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>945950</customername>
+    <prodCode>b3</prodCode>
+    <prodFlavor>Spam</prodFlavor>
+    <prodToppings>Bonito Flakes-4</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>2</qty>
+    <customername>298931</customername>
+    <prodCode>b3</prodCode>
+    <prodFlavor>Spam</prodFlavor>
+    <prodToppings>Takoyaki Sauce-4</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>2</qty>
+    <customername>648436</customername>
+    <prodCode>sjdmm1</prodCode>
+    <prodFlavor>medium-15</prodFlavor>
+    <prodToppings>No Add Ons-0</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>53309</customername>
+    <prodCode>sjdmp1</prodCode>
+    <prodFlavor>medium-15</prodFlavor>
+    <prodToppings>Crystals-5</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>3</qty>
+    <customername>53309</customername>
+    <prodCode>sjdmm1</prodCode>
+    <prodFlavor>small-0</prodFlavor>
+    <prodToppings>Pearls-5</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>3</qty>
+    <customername>53309</customername>
+    <prodCode>sjdmm3</prodCode>
+    <prodFlavor>medium-15</prodFlavor>
+    <prodToppings>Crystals-5</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>53309</customername>
+    <prodCode>sjdmm5</prodCode>
+    <prodFlavor>small-0</prodFlavor>
+    <prodToppings>No Add Ons-0</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>60099</customername>
+    <prodCode>t4</prodCode>
+    <prodFlavor>Octobits and Classic Pearl</prodFlavor>
+    <prodToppings>No Add Ons and No Add Ons-0</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>476449</customername>
+    <prodCode>sjdmm1</prodCode>
+    <prodFlavor>medium-15</prodFlavor>
+    <prodToppings>Pearls-5</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>2</qty>
+    <customername>476449</customername>
+    <prodCode>sjdmp1</prodCode>
+    <prodFlavor>medium-15</prodFlavor>
+    <prodToppings>No Add Ons-0</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>2</qty>
+    <customername>278362</customername>
+    <prodCode>sjdmp1</prodCode>
+    <prodFlavor>medium-15</prodFlavor>
+    <prodToppings>No Add Ons-0</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>2</qty>
+    <customername>278362</customername>
+    <prodCode>sjdmcc1</prodCode>
+    <prodFlavor>medium-15</prodFlavor>
+    <prodToppings>No Add Ons-0</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>705442</customername>
+    <prodCode>b3</prodCode>
+    <prodFlavor>Octobits</prodFlavor>
+    <prodToppings>No Add Ons-0</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>2</qty>
+    <customername>302803</customername>
+    <prodCode>b3</prodCode>
+    <prodFlavor>Octobits</prodFlavor>
+    <prodToppings>No Add Ons-0</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>2</qty>
+    <customername>523393</customername>
+    <prodCode>sjdmp1</prodCode>
+    <prodFlavor>large-30</prodFlavor>
+    <prodToppings>Cream Cheese-10</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>523393</customername>
+    <prodCode>sjdmp4</prodCode>
+    <prodFlavor>large-30</prodFlavor>
+    <prodToppings>Cream Cheese-10</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>702151</customername>
+    <prodCode>b3</prodCode>
+    <prodFlavor>Octobits</prodFlavor>
+    <prodToppings>Takoyaki Sauce-4</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>509183</customername>
+    <prodCode>b3</prodCode>
+    <prodFlavor>Octobits</prodFlavor>
+    <prodToppings>No Add Ons-0</prodToppings>
+  </mycarts>
+  <mycarts>
+    <qty>1</qty>
+    <customername>64681</customername>
+    <prodCode>b3</prodCode>
+    <prodFlavor>Octobits</prodFlavor>
+    <prodToppings>Takoyaki Sauce-4</prodToppings>
+  </mycarts>
+</mycart>

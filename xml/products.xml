@@ -1,0 +1,766 @@
+<?xml version="1.0"?>
+<products>
+<!-- Takoyaki -->
+    <product>
+		<code>b3</code>
+		<prod_name>Box of 3</prod_name>
+		<category>box</category>
+		<brand>takuyaki</brand>
+		<price>49</price>
+		<pic>xml/pics/box of 3.jpg</pic>
+		<pieces>3pcs</pieces>
+	</product>
+
+	<product>
+		<code>b6</code>
+		<prod_name>Box of 6</prod_name>
+		<category>box</category>
+		<brand>takuyaki</brand>
+		<price>89</price>
+		<pic>xml/pics/box of 3.jpg</pic>
+		<pieces>6pcs</pieces>
+	</product> 
+
+     <product>
+		<code>ptk</code>
+		<prod_name>
+			<![CDATA[Party Tray <br> Kawaii (12 pcs)]]>
+		</prod_name>
+		<category>party tray</category>
+		<brand>takuyaki</brand>
+		<price>169</price>
+		<pic>xml/pics/party tray.jpg</pic>
+		<pieces>12pcs</pieces>
+	</product>
+	
+	<product>
+		<code>pts</code>
+		<prod_name>
+			<![CDATA[Party Tray <br> Sugoi (20 pcs)]]>
+		</prod_name>
+		<category>party tray</category>
+		<brand>takuyaki</brand>
+		<price>269</price>
+		<pic>xml/pics/party tray.jpg</pic>
+		<pieces>20pcs</pieces>
+	</product>
+	
+	<product>
+		<code>ptk2</code>
+		<prod_name>
+			<![CDATA[Party Tray <br> Kyodai (35 pcs)]]>
+		</prod_name>
+		<category>party tray</category>
+		<brand>takuyaki</brand>
+		<price>449</price>
+		<pic>xml/pics/party tray.jpg</pic>
+		<pieces>35pcs</pieces>
+	</product>
+
+	<product>
+		<code>cbk</code>
+		<prod_name>
+			<![CDATA[Cheesy Baked Kawaii  (12 pcs)]]>
+		</prod_name>
+		<category>Cheesy Baked</category>
+		<brand>takuyaki</brand>
+		<price>249</price>
+		<pic>xml/pics/cheesy baked.jpg</pic>
+		<pieces>12pcs</pieces>
+	</product>
+	
+	<product>
+		<code>cbs</code>
+		<prod_name>
+			<![CDATA[Cheesy Baked Sugoi  (20 pcs)]]>
+		</prod_name>
+		<category>Cheesy Baked</category>
+		<brand>takuyaki</brand>
+		<price>399</price>
+		<pic>xml/pics/cheesy baked.jpg</pic>
+		<pieces>20pcs</pieces>
+	</product>
+
+	<product>
+		<code>cbk2</code>
+		<prod_name>
+			<![CDATA[Cheesy Baked Kyodai (35 pcs)]]>
+		</prod_name>
+		<category>Cheesy Baked</category>
+		<brand>takuyaki</brand>
+		<price>649</price>
+		<pic>xml/pics/cheesy baked.jpg</pic>
+		<pieces>35pcs</pieces>
+	</product>
+	
+<!-- End Takoyaki  -->
+
+
+<!-- Milk Tea -->
+	<!-- Milk Tea Series -->
+	<product>
+		<code>m1</code>
+		<prod_name>Classic Pearl</prod_name>
+		<category>milkteaseries</category>
+		<brand>milktea</brand>
+		<price>39</price>
+		<pic>xml/pics/milktea.jpg</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>m2</code>
+		<prod_name>Cookies N' Cream</prod_name>
+		<category>milkteaseries</category>
+		<brand>milktea</brand>
+		<price>39</price>
+		<pic>xml/pics/milktea.jpg</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>m3</code>
+		<prod_name>Strawberry</prod_name>
+		<category>milkteaseries</category>
+		<brand>milktea</brand>
+		<price>39</price>
+		<pic>xml/pics/milktea.jpg</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>m4</code>
+		<prod_name>Taro</prod_name>
+		<category>milkteaseries</category>
+		<brand>milktea</brand>
+		<price>39</price>
+		<pic>xml/pics/milktea.jpg</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>m5</code>
+		<prod_name>Chocolate</prod_name>
+		<category>milkteaseries</category>
+		<brand>milktea</brand>
+		<price>39</price>
+		<pic>xml/pics/milktea.jpg</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>m6</code>
+		<prod_name>Dark Choco</prod_name>
+		<category>milkteaseries</category>
+		<brand>milktea</brand>
+		<price>39</price>
+		<pic>xml/pics/milktea.jpg</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>m7</code>
+		<prod_name>Salted Caramel</prod_name>
+		<category>milkteaseries</category>
+		<brand>milktea</brand>
+		<price>39</price>
+		<pic>xml/pics/milktea.jpg</pic>
+		<pieces></pieces>
+	</product>
+	
+	<!-- End of Milk Tea Series -->
+
+
+
+	<!-- Premium Series -->
+     <product>
+		<code>p1</code>
+		<prod_name>Okinawa</prod_name>
+		<category>premiumseries</category>
+		<brand>milktea</brand>
+		<price>49</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+	  <product>
+		<code>p2</code>
+		<prod_name>Wintermelon</prod_name>
+		<category>premiumseries</category>
+		<brand>milktea</brand>
+		<price>49</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	 </product>
+	
+	  <product>
+		<code>p3</code>
+		<prod_name>Matcha</prod_name>
+		<category>premiumseries</category>
+		<brand>milktea</brand>
+		<price>49</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	 </product>
+
+	   <product>
+		<code>p4</code>
+		<prod_name>Cheesecake</prod_name>
+		<category>premiumseries</category>
+		<brand>milktea</brand>
+		<price>49</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	 </product>
+
+	    <product>
+		<code>p5</code>
+		<prod_name>Red Velvet</prod_name>
+		<category>premiumseries</category>
+		<brand>milktea</brand>
+		<price>49</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	 </product>
+	<!-- End of Premium Series -->
+
+
+
+	<!-- Choco Series -->
+    <product>
+		<code>c1</code>
+		<prod_name>Choco Okinawa</prod_name>
+		<category>chocoseries</category>
+		<brand>milktea</brand>
+		<price>49</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>c2</code>
+		<prod_name>Choco Matcha</prod_name>
+		<category>chocoseries</category>
+		<brand>milktea</brand>
+		<price>49</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>c3</code>
+		<prod_name>Choco Cheesecake</prod_name>
+		<category>chocoseries</category>
+		<brand>milktea</brand>
+		<price>49</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>c4</code>
+		<prod_name>Choco Taro</prod_name>
+		<category>chocoseries</category>
+		<brand>milktea</brand>
+		<price>49</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+	<!-- End of Choco Series -->
+
+
+
+	<!-- Cream Cheese Series -->
+
+     <product>
+		<code>cc1</code>
+		<prod_name>
+			<![CDATA[Okinawa <br/> Cream Cheese]]>
+		</prod_name>
+		<category>creamcheese</category>
+		<brand>milktea</brand>
+		<price>59</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+ 
+      <product>
+		<code>cc2</code>
+		<prod_name>Hokkaido Cream Cheese</prod_name>
+		<category>creamcheese</category>
+		<brand>milktea</brand>
+		<price>59</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+ 
+
+     <product>
+		<code>cc3</code>
+		<prod_name>Matcha Cream Cheese</prod_name>
+		<category>creamcheese</category>
+		<brand>milktea</brand>
+		<price>59</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+     <product>
+		<code>cc4</code>
+		<prod_name>Red Velvet Cream Cheese</prod_name>
+		<category>creamcheese</category>
+		<brand>milktea</brand>
+		<price>59</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+     <product>
+		<code>cc5</code>
+		<prod_name>Wintermelon Cream Cheese</prod_name>
+		<category>creamcheese</category>
+		<brand>milktea</brand>
+		<price>59</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+	<!-- End Cream Cheese Series -->
+
+
+	<!-- Tipid- Takoyaki Deals - Takoyaki -->
+ 
+   <product>
+		<code>t1</code>
+		<prod_name>Box of 3 + 1</prod_name>
+		<category>box</category>
+		<brand>tipidtako</brand>
+		<price>49</price>
+		<pic>xml/pics/box of 3.jpg</pic>
+		<pieces>3pcs</pieces>
+	</product>
+
+	<product>
+		<code>t2</code>
+		<prod_name>Box of 6 + 2</prod_name>
+		<category>box</category>
+		<brand>tipidtako</brand>
+		<price>89</price>
+		<pic>xml/pics/box of 3.jpg</pic>
+		<pieces>6pcs</pieces>
+	</product> 
+	<!-- End Tipid Deals - Takoyaki -->
+  
+	<!-- Tipid Deals - Milk tea -->
+	 <product>
+		<code>t3</code>
+		<prod_name>Twin Teas</prod_name>
+		<category>twinteas</category>
+		<brand>milktea</brand>
+		<price>99</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+<!-- End Tipid Deals - Milk tea -->
+
+<!-- Takoyaki + Milk tea -->
+
+<product>
+		<code>t4</code>
+		<prod_name>
+			<![CDATA[Box of 3 And <br/>1 Medium  Milk <br> Tea Series]]>
+		</prod_name>
+		<category>combo</category>
+		<brand>tipidcommbo</brand>
+		<price>99</price>
+		<pic>xml/pics/box of 3.jpg</pic>
+		<pieces>3pcs</pieces>
+</product>
+
+
+<product>
+		<code>t5</code>
+		<prod_name>
+			<![CDATA[Box of 6 And <br/> 1 Medium  Milk Tea Series]]>
+		</prod_name>
+		<category>combo</category>
+		<brand>tipidcommbo</brand>
+		<price>118</price>
+		<pic>xml/pics/box of 3.jpg</pic>
+		<pieces>6pcs</pieces>
+</product>
+
+<product>
+		<code>t6</code>
+		<prod_name>
+			<![CDATA[Party Tray Kawaii <br/> And 2 Medium Milk Tea Series]]>
+		</prod_name>
+		<category>combo</category>
+		<brand>tipidcommbo</brand>
+		<price>228</price>
+		<pic>xml/pics/party tray.jpg</pic>
+		<pieces>6pcs</pieces>
+</product>
+
+<product>
+		<code>t7</code>
+		<prod_name>
+			<![CDATA[Party Tray Sugoi And  3 Medium  <br/>Milk Tea Series]]>
+		</prod_name>
+		<category>combo</category>
+		<brand>tipidcommbo</brand>
+		<price>358</price>
+		<pic>xml/pics/party tray.jpg</pic>
+		<pieces>6pcs</pieces>
+</product>
+
+<product>
+		<code>t8</code>
+		<prod_name>
+			<![CDATA[Party Tray Kyodai And  5 Medium  <br/>Milk Tea Series]]>
+		</prod_name>
+		<category>combo</category>
+		<brand>tipidcommbo</brand>
+		<price>608</price>
+		<pic>xml/pics/party tray.jpg</pic>
+		<pieces>6pcs</pieces>
+</product>
+<!-- End of tipid deals -->
+
+
+
+
+<!-- SJDM Menu -->
+<!-- Takoyaki -->
+<product>
+		<code>sjdmb3</code>
+		<prod_name>Box of 3</prod_name>
+		<category>box</category>
+		<brand>sjdmtakuyaki</brand>
+		<price>38</price>
+		<pic>xml/pics/box of 3.jpg</pic>
+		<pieces>3pcs</pieces>
+	</product>
+
+	<product>
+		<code>sjdmb6</code>
+		<prod_name>Box of 6</prod_name>
+		<category>box</category>
+		<brand>sjdmtakuyaki</brand>
+		<price>68</price>
+		<pic>xml/pics/box of 3.jpg</pic>
+		<pieces>6pcs</pieces>
+	</product> 
+
+     <product>
+		<code>sjdmptk</code>
+		<prod_name>
+			<![CDATA[Party Tray Kawaii <br/> (12 pcs)]]>
+		</prod_name>
+		<category>party tray</category>
+		<brand>sjdmtakuyaki</brand>
+		<price>128</price>
+		<pic>xml/pics/party tray.jpg</pic>
+		<pieces>12pcs</pieces>
+	</product>
+	
+	<product>
+		<code>sjdmpts</code>
+		<prod_name>
+			<![CDATA[Party Tray Sugoi <br/> (20 pcs)]]>
+		</prod_name>
+		<category>party tray</category>
+		<brand>sjdmtakuyaki</brand>
+		<price>208</price>
+		<pic>xml/pics/party tray.jpg</pic>
+		<pieces>20pcs</pieces>
+	</product>
+	
+	<product>
+		<code>sjdmptk2</code>
+		<prod_name>
+			<![CDATA[Party Tray Kyodai <br/> (35 pcs)]]>
+		</prod_name>
+		<category>party tray</category>
+		<brand>sjdmtakuyaki</brand>
+		<price>358</price>
+		<pic>xml/pics/party tray.jpg</pic>
+		<pieces>35pcs</pieces>
+	</product>
+
+	<product>
+		<code>sjdmcbk</code>
+		<prod_name>
+			<![CDATA[Cheesy Baked Kawaii <br/> (12 pcs)]]>
+		</prod_name>
+		<category>Cheesy Baked</category>
+		<brand>sjdmtakuyaki</brand>
+		<price>198</price>
+		<pic>xml/pics/cheesy baked.jpg</pic>
+		<pieces>12pcs</pieces>
+	</product>
+	
+	<product>
+		<code>sjdmcbs</code>
+		<prod_name>
+			<![CDATA[Cheesy Baked Sugoi <br/> (20 pcs)]]>
+		</prod_name>
+		<category>Cheesy Baked</category>
+		<brand>sjdmtakuyaki</brand>
+		<price>318</price>
+		<pic>xml/pics/cheesy baked.jpg</pic>
+		<pieces>20pcs</pieces>
+	</product>
+
+	<product>
+		<code>sjdmcbk2</code>
+		<prod_name>
+			<![CDATA[Cheesy Baked Kyodai <br/> (35 pcs)]]>
+		</prod_name>
+		<category>Cheesy Baked</category>
+		<brand>sjdmtakuyaki</brand>
+		<price>548</price>
+		<pic>xml/pics/cheesy baked.jpg</pic>
+		<pieces>35pcs</pieces>
+	</product>
+
+<!-- End Takoyaki -->
+
+<!-- SJDM-Milk Tea Series -->
+<product>
+		<code>sjdmm1</code>
+		<prod_name>Classic Pearl</prod_name>
+		<category>milkteaseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>35</price>
+		<pic>xml/pics/milktea.jpg</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>sjdmm2</code>
+		<prod_name>Cookies N' Cream</prod_name>
+		<category>milkteaseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>35</price>
+		<pic>xml/pics/milktea.jpg</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>sjdmm3</code>
+		<prod_name>Strawberry</prod_name>
+		<category>milkteaseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>35</price>
+		<pic>xml/pics/milktea.jpg</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>sjdmm4</code>
+		<prod_name>Taro</prod_name>
+		<category>milkteaseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>35</price>
+		<pic>xml/pics/milktea.jpg</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>sjdmm5</code>
+		<prod_name>Chocolate</prod_name>
+		<category>milkteaseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>35</price>
+		<pic>xml/pics/milktea.jpg</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>sjdmm6</code>
+		<prod_name>Dark Choco</prod_name>
+		<category>milkteaseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>35</price>
+		<pic>xml/pics/milktea.jpg</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>sjdmm7</code>
+		<prod_name>Salted Caramel</prod_name>
+		<category>milkteaseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>35</price>
+		<pic>xml/pics/milktea.jpg</pic>
+		<pieces></pieces>
+	</product>
+
+
+<!-- End SJDM Milk Tea Series -->
+
+
+
+
+
+<!-- SJDM Premium Milk Tea -->
+
+ <product>
+		<code>sjdmp1</code>
+		<prod_name>Okinawa</prod_name>
+		<category>premiumseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>45</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+	  <product>
+		<code>sjdmp2</code>
+		<prod_name>Wintermelon</prod_name>
+		<category>premiumseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>45</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	 </product>
+	
+	  <product>
+		<code>sjdmp3</code>
+		<prod_name>Matcha</prod_name>
+		<category>premiumseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>45</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	 </product>
+
+	   <product>
+		<code>sjdmp4</code>
+		<prod_name>Cheesecake</prod_name>
+		<category>premiumseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>45</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	 </product>
+
+	    <product>
+		<code>sjdmp5</code>
+		<prod_name>Red Velvet</prod_name>
+		<category>premiumseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>45</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	   </product>
+
+<!-- End SJMD Premium Milk Tea -->
+
+
+
+<!-- SJDM Choco Series -->
+
+  <product>
+		<code>sjdmc1</code>
+		<prod_name>Choco Okinawa</prod_name>
+		<category>chocoseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>45</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>sjdmc2</code>
+		<prod_name>Choco Matcha</prod_name>
+		<category>chocoseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>45</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>sjdmc3</code>
+		<prod_name>Choco Cheesecake</prod_name>
+		<category>chocoseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>45</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+	<product>
+		<code>sjdmc4</code>
+		<prod_name>Choco Taro</prod_name>
+		<category>chocoseries</category>
+		<brand>sjdmmilktea</brand>
+		<price>45</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+<!-- End Choco Series -->
+
+<!-- SJDM Cream Cheese -->
+<product>
+		<code>sjdmcc1</code>
+		<prod_name>
+			<![CDATA[Okinawa <br/> Cream Cheese]]>
+		</prod_name>
+		<category>creamcheese</category>
+		<brand>sjdmmilktea</brand>
+		<price>55</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+ 
+      <product>
+		<code>sjdmcc2</code>
+		<prod_name>Hokkaido Cream Cheese</prod_name>
+		<category>creamcheese</category>
+		<brand>sjdmmilktea</brand>
+		<price>55</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+ 
+
+     <product>
+		<code>sjdmcc3</code>
+		<prod_name>Matcha Cream Cheese</prod_name>
+		<category>creamcheese</category>
+		<brand>sjdmmilktea</brand>
+		<price>55</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+     <product>
+		<code>sjdmcc4</code>
+		<prod_name>Red Velvet Cream Cheese</prod_name>
+		<category>creamcheese</category>
+		<brand>sjdmmilktea</brand>
+		<price>55</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+     <product>
+		<code>sjdmcc5</code>
+		<prod_name>Wintermelon Cream Cheese</prod_name>
+		<category>creamcheese</category>
+		<brand>sjdmmilktea</brand>
+		<price>55</price>
+		<pic>xml/pics/milk tea.png</pic>
+		<pieces></pieces>
+	</product>
+
+
+<!-- End SJDM Cream Cheese -->
+
+
+<!-- End SJDM Menu -->
+</products>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<sizes>
+		<size>
+	    <name>Small</name>
+        <category>milkteaseries</category>
+		<brand>milktea</brand>
+		<sizemilktea>small</sizemilktea>
+		<price>39</price>
+		</size>
+
+		<size>
+		 <name>Medium</name>	
+        <category>milkteaseries</category>
+		<brand>milktea</brand>
+		<sizemilktea>medium</sizemilktea>
+		<price>59</price>
+		</size>
+
+		<size>
+		 <name>Large</name>	
+        <category>milkteaseries</category>
+		<brand>milktea</brand>
+		<sizemilktea>large</sizemilktea>
+		<price>79</price>
+		</size>
+</sizes>
